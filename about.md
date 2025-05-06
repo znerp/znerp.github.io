@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ich bin ein Individuum, das angetrieben ist von Selbstentwicklung und Herausforderungen. So suche ich mir beispielsweise gerne sportliche Herausforderungen und bin ein begeisterter Läufer. 
 
-### More Information
+### Kontakt
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Schreib mir eine Mail.](mailto:virtual_flame@yahoo.com)
